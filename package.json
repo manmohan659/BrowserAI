@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/sauravpanda/BrowserAI#readme",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
     "@huggingface/jinja": "^0.3.2",
     "@mlc-ai/web-llm": "^0.2.77",
     "onnxruntime-web": "1.21.0-dev.20250114-228dd16893",
